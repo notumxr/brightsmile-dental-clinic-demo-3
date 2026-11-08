@@ -1,0 +1,6 @@
+{
+  "name": "BrightSmile Dental Clinic",
+  "description": "Manchester dental clinic offering check-ups, cleaning, fillings, and whitening with an authorized grounded assistant for patient queries and booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
